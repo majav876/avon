@@ -1,0 +1,32 @@
+body{
+	background: #ff8080;
+}
+.naslov{
+	color: white;
+	text-align: center;
+	font-family: arial;
+	font-size: 40px;
+}
+form{
+	color: white;
+}
+legend{
+	text-align: center;
+	font-size: 30px;
+}
+input[type=text],select{
+	border: solid 2px blue;
+	border-radius: 15px;
+}
+input[type=number]{
+	border: solid 2px blue;
+	border-radius: 15px;
+}
+input[type=submit]{
+	background: black;
+	color:white;
+}
+input[type=reset]{
+	background: black;
+	color:white;
+}
